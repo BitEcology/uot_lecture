@@ -1,9 +1,13 @@
 Section: Wilderness, Nature + Ecology
 
 
-#Ecology in North America: Thinking about landscapes
-
+#Ecology and Landscapes in North America
 * Landscapes: Perspectives
+
+* Me
+** What do you do? 
+** Why do you do what you do?
+** Where do you work?
 
 * Define Ecology
 ** Study of the distribution and aubundance of organisms
@@ -47,6 +51,10 @@ Section: Wilderness, Nature + Ecology
 ** Cities and climate change = cities and heat sinks
 
 ** Tom Whitham = Genetics of landscapes
+
+** State Changes and Catastrophes
+
+** Peter Del Tredici = native vs non-native? does it really matter
 
 * Future
 ** Landscape concepts
