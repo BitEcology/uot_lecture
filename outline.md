@@ -9,70 +9,76 @@ Section: Wilderness, Nature + Ecology
 ** Why do you do what you do?
 ** Where do you work?
 
-* Define Ecology
-** Study of the distribution and aubundance of organisms
-** How an organism's environment determines its growth and survival
+- Define ecology
 
-* C. Hart Merriem = Life zones
-* Cowles, Clements and Gleason = succession/community concepts
-** Disturbance
-** Primary, secondary and climax
-* Old fields = post-industrial, post-ww1ww2
+- Scales of ecological investigation
 
-* Eugene Odum = ecosystem development
+### Naturalism and Life Zones
 
-* MacArthur and Wilson = 
-** Modernization of ecology
-** Island biogeography
-** Diversity and Stability
+- Henry David Thoureau
 
-* Environmentalism and Ecology
-** WW II and the green revolution
-** Rachel Carson = Silent Spring
-** Environmental toxins
-** Extinctions
-** Simberloff = Non-native species invasions
-** Paul Byer = Habitat fragmentation and loss
-** Paul Ehrlich = The Population Bomb 
+- C. Hart Merriem
 
-* Competition vs Mutualism = Complexity
+- Ecological Society of America Founded 1915
 
-* Modern Concepts of Landscapes
-** Paine = keystone species
-** Ecosystem Engineers
-** Dayton and Ellison = Foundation species
-** R.R. Forman = Humans in landscapes, urban
-** E.O. Wilson = Sociobiology and Biophilia
-** Brown, West = Biological Scaling and Cities
-** Community Assembly
-** State Space and the Cup and Ball Model
-** Nancy Johnson = Mutualism vs Competition and the Continuum Concept
+- Aldo Leopold
 
-** Cities and climate change = cities and heat sinks
+### Community Concept: Autecology and Synecology
 
-** Tom Whitham = Genetics of landscapes
+- Cowles
 
-** State Changes and Catastrophes
+- Clements and Gleason
 
-** Peter Del Tredici = native vs non-native? does it really matter
+- Forest Service, CCC, SER and TNC
 
-* Future
-** Landscape concepts
-** Cities
-** Computation, information, crowds
+### Food Webs and the Ecosystem Concept
 
+- WWI, WWII, Post-agrarian and the Green Revolution
 
-*Changing Perceptions of Nature: A History of Ecology in North America*
+- The Atomic Age and Cold War Ecology = Radio Isotopes and Ecosystem Ecology
 
-* Timeline of ecology
-* Naturalism in Britain and North America
-* Extinction: Preservation and Conservation
-* War! 
-* Quantification: MacArthur and Wilson
-* Old-fields: Post-indisutrial Ecological 'Boom-Towns'
-* Capitalist vs Socialist Ideologies
-* What is nature? Aaron's quiz.
-* Nature as disaster: Ecologists as Reactionaries
-* Landscape ecology
-* Socio-Biology and Biophilia
-* The Future? Ecology and Computation
+- Island Biogeography: MacArthur, Wilson and Simberloff
+
+### Diversity, Stability and Interactions
+
+- Silent Spring, Rachel Carson
+
+- Endangered Species Act, Clean Air and Water Acts and the EPA
+
+- Invasive species and Ecosystem Meltdown
+
+- Keystone species, Ecosystem Engineers and Foundation Species
+
+### Spatial-Landscape Ecology
+
+- Landscape Connectivity: Beier and Foreman
+
+- Foreman: Landscape Ecology and Road Ecology
+
+- GIS
+
+- Network ecology
+
+### Modern Challenges
+
+- Climate Change = Sea level rise
+
+- Urban Ecology
+
+- Agro-ecology
+
+### Perceptions: Human-Nature and Art
+
+- Modernism: rejecting natural humanity
+
+- How do we perceive nature?
+
+- Ecologists have excluded humans because humans do some crazy things.
+
+- This dichotomy has lead to a challenge in ecology where ecology sets humans apart
+
+- Quiz: What do you think?
+
+- Two examples: Romantic vs Modern
+
+### Q&A: Approaching complex issues of culture, design and ecology
