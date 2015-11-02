@@ -10,8 +10,10 @@ Section: Wilderness, Nature + Ecology
 ** Where do you work?
 
 - Define ecology
++ plant range map
 
 - Scales of ecological investigation
+
 
 ### Naturalism and Life Zones
 
