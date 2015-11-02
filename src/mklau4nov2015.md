@@ -1,4 +1,3 @@
-
 Section: Wilderness, Nature + Ecology
 
 
@@ -44,7 +43,7 @@ Section: Wilderness, Nature + Ecology
 - Endangered Species Act, Clean Air and Water Acts and the EPA
 - Invasive species and Ecosystem Meltdown
 - Keystone species, Ecosystem Engineers and Foundation Species
-+ Robert Paine
++ Robert Paine: Keystones and Disturbance
 + Paul Dayton and Aaron Ellison
 - Post-cold War: Microbes = Mycorrhizal Fungi and Foliar Endophytes
 
@@ -53,11 +52,13 @@ Section: Wilderness, Nature + Ecology
 - Roots in Biogeography
 - Landscape Connectivity: Beier and Foreman
 - Foreman: Landscape Ecology and Road Ecology
++ Pine Barrens: Ecosystem and Landscape
 - GIS and Species Distribution Modeling
 
 ### Modern Challenges
 
 - Climate Change = Sea level rise
++ http://sealevel.climatecentral.org/
 + Planting for the future? (Tom Whitham and Ruth Shaw)
 - Urban and Agro-Ecology
 + Ecological Urbanism and Brown Fields
