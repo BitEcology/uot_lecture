@@ -1,4 +1,4 @@
-# Ecology from Naturalism to Beyond Modernism
+# Community Ecology: Naturalism to Beyond Modernism
 
 # 
 
@@ -20,37 +20,33 @@
 <!-- - Henry David Thoureau -->
 <!-- - C. Hart Merriem -->
 <!-- - Ecological Society of America Founded 1915 -->
-<!-- - Aldo Leopold -->
 
 <!-- ### Community Concept: Autecology and Synecology -->
 
-<!-- - Autecology and Synecology -->
 <!-- - Scales of ecological investigation -->
 <!-- - Cowles -->
 <!-- - Clements and Gleason -->
 <!-- - The Dust-Bowl -->
+<!-- - The New Deal and the CCC and The Nature Conservancy -->
 <!-- - WWII, The Green Revolution (= Agricultural Concentration) -->
 <!-- - Post-agrarian old fields (Earl Core)  -->
-<!-- - The New Deal and the CCC and The Nature Conservancy -->
 
-<!-- ### Food Webs and the Ecosystem Concept -->
+<!-- ### Modern Ecology: Food Webs and the Ecosystem Concept -->
 <!-- - The Atomic Age and Cold War Ecology = Radio Isotopes and Ecosystem Ecology -->
 <!-- + Hutchinson -->
 <!-- + HT Odum -->
+<!-- MacArthur = Quantitative and rigorously theoretical -->
 <!-- - Island Biogeography: MacArthur, Wilson and Simberloff -->
-
-<!-- ### Diversity, Stability and Interactions -->
-
 <!-- - Silent Spring, Rachel Carson -->
 <!-- - Endangered Species Act, Clean Air and Water Acts and the EPA -->
+
+<!-- ### Post-modern Community Ecology: Diversity, Stability and Interactions -->
 <!-- - Invasive species and Ecosystem Meltdown -->
 <!-- - Keystone species, Ecosystem Engineers and Foundation Species -->
 <!-- + Robert Paine: Keystones and Disturbance -->
-<!-- + Paul Dayton and Aaron Ellison -->
 <!-- - Post-cold War: Microbes = Mycorrhizal Fungi and Foliar Endophytes -->
 
 <!-- ### Spatial-Landscape Ecology -->
-
 <!-- - Roots in Biogeography -->
 <!-- - Landscape Connectivity: Beier and Foreman -->
 <!-- - Foreman: Landscape Ecology and Road Ecology -->
@@ -61,7 +57,7 @@
 
 <!-- - Climate Change = Sea level rise -->
 <!-- + http://sealevel.climatecentral.org/ -->
-<!-- + Planting for the future? (Tom Whitham and Ruth Shaw) -->
+<!-- + Planting for the future? (1000cords) -->
 <!-- - Urban and Agro-Ecology -->
 <!-- + Ecological Urbanism and Brown Fields -->
 <!-- + Biological Scaling (Brown and West) -->
@@ -76,5 +72,4 @@
 
 <!-- - Quiz: What do you think? -->
 <!-- - Two examples: Romantic vs Modern -->
-
 <!-- ### Q&A: Approaching complex issues of culture, design and ecology -->
