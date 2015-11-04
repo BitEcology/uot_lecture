@@ -1,0 +1,18 @@
+
+title "My Presentation"
+
+description "Testing the waters"
+
+theme "minimal"
+
+pause_message "people.fas.harvard.edu/matthewklau"
+
+section "Introduction" do
+  slides "intro.md"
+  slides "intro.md"
+end
+
+section "features"
+section "code_samples"
+
+slides "conclusion.md"
