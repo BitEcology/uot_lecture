@@ -1,18 +1,15 @@
 
-title "My Presentation"
+title ""
 
-description "Testing the waters"
+description "University of Toronto 4Nov2015"
 
 theme "minimal"
 
-pause_message "people.fas.harvard.edu/matthewklau"
+pause_message "Community Ecology: Naturalism to Beyond Modernism"
 
-section "Introduction" do
-  slides "intro.md"
+section "UoT 2015" do
+  slides "title.md"
   slides "intro.md"
 end
-
-section "features"
-section "code_samples"
 
 slides "conclusion.md"

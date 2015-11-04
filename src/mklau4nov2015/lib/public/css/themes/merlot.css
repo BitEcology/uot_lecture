@@ -1,0 +1,54 @@
+/* customr css and js files included at the top level of your presentation will
+ * will be included in your presentation */
+
+body {
+  background: #ece4d8;
+  font: normal normal 15px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
+  color: #544943;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+  font-weight: bold;
+  border-bottom: .2em double #d3ccc1;
+  color: #7c334f;
+}
+
+pre, pre.highlight, pre.highlight pre {
+  font: normal normal .9em/1.7 "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
+  background: #fff6e9;
+}
+
+#preso, .slide {
+  background: #ece4d8;
+}
+
+#footer {
+  border-top: 1px solid #7c334f;
+  background: #7c334f;
+  color: #fff;
+}
+
+#pauseScreen {
+  background: rgba(124, 51, 79, 0.85);
+}
+
+#help {
+  background: #7c334f;
+}
+
+#help table tr td.key {
+  border-right: 2px solid #7c334f;
+}
+
+.content.columns h2 {
+  border-bottom: .2em single #d3ccc1;
+}
+
+img {
+  -webkit-box-shadow: 0px 2px 0px #bdb6ad;
+  -moz-box-shadow: 0px 2px 0px #bdb6ad;
+  box-shadow: 0px 2px 0px #bdb6ad;
+  border: 2px solid #fff6e9;
+}

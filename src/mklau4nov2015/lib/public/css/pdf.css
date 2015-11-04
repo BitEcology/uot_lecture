@@ -1,0 +1,13 @@
+.slide {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 650px;
+    margin-left:auto; 
+    margin-right:auto;
+    overflow:hidden;
+    font-size: 80%;
+    page-break-after: always
+}
+
+@page { size: Letter Landscape }

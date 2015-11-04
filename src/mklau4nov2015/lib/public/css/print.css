@@ -1,0 +1,16 @@
+@media screen {
+  body { overflow:scroll; }
+  .slide, .preso { margin: 10px; }
+}
+
+@media print {
+  body { background: none; overflow:scroll; }
+  .slide, .preso {
+    margin: 10px;
+    padding: 0;
+    overflow:hidden;
+    border: none;
+    page-break-after: always;
+    border: 1px solid #333;
+  }
+}
