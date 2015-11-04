@@ -1,2 +1,5 @@
 ./src/mklau4nov2015/images/*
 ./src/mklau4nov2015/example/backup_talk.pdf 
+*/src/*.jpg
+*/src/*.png
+*/src/*.pdf
